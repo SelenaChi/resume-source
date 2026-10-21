@@ -7,6 +7,11 @@ Every version of resume_source.md is kept. Nothing is overwritten.
 
 Bullet ID rule: a wording-only edit keeps the same ID; a change in what the bullet claims gets a new ID (e.g. T4b), and the old one stays in the snapshots.
 
+## live tabs — 2026-10-21 (same layout as the master template)
+- The live page now has every tab the master template has: 7 directions, each with its 一页版 and Overleaf code, Story bank and Story bank table. Content starts as a copy of the master template; from here on it changes with Selena's edits and what is learned from applications.
+- live/ holds the current text of each tab (phone and email removed). Snapshot: versions/live_tabs_2026-10-21/
+- resume_source.md (what Muse reads) is unchanged in this step.
+
 ## v2 — 2026-10-21 (optimized bullets)
 - Added direction variants for bullets so each direction has ready-to-paste wording: T2 [AI]/[APM], T3 [Data], T4 [Ads]/[Data]/[B2B], T5 [B2B]/[AI], D1 [Growth], F1 [E-com], C2 [Data]/[B2B].
 - Matching rules: vertical SaaS counts as B2B even when titled APM; hardware/physical products → Low fit; 3+ yrs hard requirement → Low fit.
