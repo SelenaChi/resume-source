@@ -7,6 +7,9 @@ Every version of resume_source.md is kept. Nothing is overwritten.
 
 Bullet ID rule: a wording-only edit keeps the same ID; a change in what the bullet claims gets a new ID (e.g. T4b), and the old one stays in the snapshots.
 
+## 2026-10-21 — Story bank made private
+- Removed Story bank and Story bank table from live/ and from versions/live_tabs_2026-10-21/. They stay only in Selena's live resume page and are no longer pushed.
+
 ## live tabs — 2026-10-21 (same layout as the master template)
 - The live page now has every tab the master template has: 7 directions, each with its 一页版 and Overleaf code, Story bank and Story bank table. Content starts as a copy of the master template; from here on it changes with Selena's edits and what is learned from applications.
 - live/ holds the current text of each tab (phone and email removed). Snapshot: versions/live_tabs_2026-10-21/

@@ -4,14 +4,13 @@ Usage: python3 tools/sync_tabs.py <dir of exported tab .md files> live/
 Each export is named "<tab name>.md" (as the doc export names it); the output
 file name is a plain slug of the tab name. Email and phone lines are removed,
 including the LaTeX \\href{mailto:..} / \\href{tel:..} pieces.
+Story bank tabs are private: they are never written here.
 """
 import os
 import re
 import sys
 
 SLUGS = {
-    "Story bank": "story_bank",
-    "Story bank table": "story_bank_table",
     "不同方向的 PM 稿": "directions",
     "AI PM": "ai_pm",
     "Growth PM": "growth_pm",
